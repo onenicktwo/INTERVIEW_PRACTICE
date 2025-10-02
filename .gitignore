@@ -1,0 +1,4 @@
+.vscode
+localstack/data
+.mypy_cache
+target

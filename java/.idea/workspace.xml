@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2785756-43a5-4c45-8f4a-70448d1d3466" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/aws-terraform/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/c-sharp/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/go/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/java/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/javascript/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/jupyter-notebook/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/python/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/typescript-react/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.devcontainer/typescript/devcontainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/workflows/verify.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-terraform/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-terraform/.terraform.lock.hcl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-terraform/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-terraform/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-terraform/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/Check.Tests/Check.Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/Check.Tests/GeneratorTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/Check/Check.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/Check/Generator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/Check/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/csharp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c-sharp/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sourceallies/interview/InterviewApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sourceallies/interview/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sourceallies/interview/InterviewApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sourceallies/interview/SolutionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/src/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter-notebook/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter-notebook/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter-notebook/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter-notebook/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter-notebook/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter-notebook/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/py_check/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/py_check/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/tests/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media/CodespaceLaunching.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media/LaunchCodespace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/App.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/src/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript-react/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/jest.config.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/src/index.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;onenicktwo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sourceallies/interviews.git&quot;,
+    &quot;accountId&quot;: &quot;7e00f33f-0060-4341-ab43-1211d79c5fce&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33MEg0trwzOAxgE41aPy9d76Cp2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.java [build].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DUCKY/SourceAllies",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.java [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2785756-43a5-4c45-8f4a-70448d1d3466" name="Changes" comment="" />
+      <created>1759118649450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759118649450</updated>
+    </task>
+    <servers />
+  </component>
+</project>
